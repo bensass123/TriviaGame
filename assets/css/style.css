@@ -24,8 +24,20 @@
 	margin: 20px;
 }
 
+.a {
+	font-size: 25x;
+	font-weight: bold;
+	color: black;
+}
+
+.title {
+	font-size: 35px;
+	font-weight: bold;
+	color: black;
+}
+
 .result {
-	font-size: 18px;
+	font-size: 25px;
 	font-weight: bold;
 	color: black;
 }
