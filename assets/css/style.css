@@ -1,0 +1,48 @@
+.invisible {
+	visibility: hidden;
+}
+
+
+.answer {
+	margin: 16px;
+}
+
+.disabled {
+  opacity: 0.65; 
+  cursor: not-allowed;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
+
+.restart {
+	margin: 20px;
+}
+
+.result {
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+}
+
+
+
+body {
+	font-family: 'Orbitron', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	background-color : transparent;
+}
+
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
